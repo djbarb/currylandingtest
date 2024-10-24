@@ -1,12 +1,12 @@
-# On-Scroll Layout Formations
+# Intro Grid with Hover Motion
 
-An explorations on assembling (grid) layouts on scroll.
+A little hover motion effect on a grid and an intro animation.
 
-![Image](https://tympanus.net/codrops/wp-content/uploads/2024/09/onscrolllayoutformationfeat.jpg)
+![Intro Grid](https://tympanus.net/codrops/wp-content/uploads/2024/05/hovermotion_feat.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=80656)
+[Article on Codrops](https://tympanus.net/codrops/?p=77934)
 
-[Demo](https://tympanus.net/Development/OnScrollLayoutFormations/)
+[Demo](https://tympanus.net/Development/IntroGridMotionTransition)
 
 ## Installation
 
